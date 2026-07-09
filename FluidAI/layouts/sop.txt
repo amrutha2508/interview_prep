@@ -1,0 +1,200 @@
+# Standard Operating Procedure (SOP)
+
+## Document Information
+
+| Field | Value |
+|-------|-------|
+| SOP Title | |
+| SOP ID | |
+| Version | |
+| Effective Date | |
+| Last Updated | |
+| Owner | |
+| Department | |
+| Status | Draft / Approved / Archived |
+
+---
+
+## 1. Purpose
+
+Describe why this SOP exists and the business objective it supports.
+
+---
+
+## 2. Scope
+
+Define:
+- Processes covered
+- Teams involved
+- Systems affected
+- Exclusions
+
+---
+
+## 3. Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| | |
+| | |
+
+---
+
+## 4. Definitions
+
+| Term | Definition |
+|------|------------|
+| | |
+| | |
+
+---
+
+## 5. Prerequisites
+
+- Required permissions
+- Required software/tools
+- Required documents
+- Access requirements
+
+---
+
+## 6. Required Resources
+
+### Software
+- Tool A
+- Tool B
+
+### Hardware
+- Device requirements
+
+### Documents
+- Templates
+- Policies
+- Reference manuals
+
+---
+
+## 7. Procedure
+
+### Step 1: Preparation
+
+**Objective**
+Brief description.
+
+**Instructions**
+1. Action
+2. Action
+3. Action
+
+**Expected Output**
+Describe the expected result.
+
+---
+
+### Step 2: Execution
+
+**Instructions**
+1. ...
+2. ...
+3. ...
+
+**Validation**
+How to verify success.
+
+---
+
+### Step 3: Completion
+
+**Instructions**
+...
+
+**Output**
+...
+
+---
+
+## 8. Decision Points
+
+### Scenario 1
+
+**Condition**
+...
+
+**Action**
+...
+
+---
+
+### Scenario 2
+
+**Condition**
+...
+
+**Action**
+...
+
+---
+
+## 9. Exception Handling
+
+| Situation | Resolution |
+|-----------|------------|
+| | |
+| | |
+
+---
+
+## 10. Quality Checks
+
+| Check | Expected Result |
+|--------|-----------------|
+| | |
+| | |
+
+---
+
+## 11. Troubleshooting
+
+| Problem | Possible Cause | Solution |
+|----------|---------------|----------|
+| | | |
+| | | |
+
+---
+
+## 12. Safety / Compliance Considerations
+
+- Security requirements
+- Compliance requirements
+- Data privacy
+- Regulatory considerations
+
+---
+
+## 13. References
+
+- Internal documentation
+- Policies
+- Standards
+- External documentation
+
+---
+
+## 14. Revision History
+
+| Version | Date | Author | Changes |
+|---------|------|--------|----------|
+| | | | |
+
+---
+
+## Appendix
+
+### Appendix A
+Supporting diagrams
+
+### Appendix B
+Templates
+
+### Appendix C
+Screenshots

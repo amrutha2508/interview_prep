@@ -1,0 +1,132 @@
+# Meeting Minutes
+
+## Meeting Information
+
+| Field | Value |
+|-------|-------|
+| Meeting Title | |
+| Project | |
+| Date | |
+| Time | |
+| Duration | |
+| Location / Platform | |
+| Meeting Type | (Weekly Sync / Client Meeting / Sprint Planning / etc.) |
+| Facilitator | |
+| Note Taker | |
+
+---
+
+## Attendees
+
+### Present
+- Name – Role
+- Name – Role
+
+### Absent
+- Name – Role
+
+---
+
+## Meeting Objective
+
+Brief description of why the meeting was held.
+
+---
+
+## Agenda
+
+1. Topic 1
+2. Topic 2
+3. Topic 3
+
+---
+
+## Discussion
+
+### Topic 1
+
+**Discussion**
+- Key points discussed
+- Questions raised
+- Alternatives considered
+
+**Decision**
+- Final decision made
+
+**Notes**
+- Additional context
+
+---
+
+### Topic 2
+
+**Discussion**
+- ...
+
+**Decision**
+- ...
+
+---
+
+## Decisions Summary
+
+| ID | Decision | Owner | Date |
+|----|----------|-------|------|
+| D-001 | | | |
+| D-002 | | | |
+
+---
+
+## Action Items
+
+| ID | Task | Owner | Priority | Due Date | Status |
+|----|------|-------|----------|----------|--------|
+| A-001 | | | High | | Open |
+| A-002 | | | Medium | | Open |
+
+---
+
+## Risks / Issues
+
+| ID | Description | Impact | Owner | Status |
+|----|-------------|--------|-------|--------|
+
+---
+
+## Open Questions
+
+| Question | Owner | Target Resolution |
+|----------|-------|-------------------|
+
+---
+
+## Follow-ups
+
+- Follow-up 1
+- Follow-up 2
+
+---
+
+## Next Meeting
+
+| Field | Value |
+|-------|-------|
+| Date | |
+| Time | |
+| Agenda | |
+
+---
+
+## Attachments / References
+
+- Presentation slides
+- Design documents
+- Jira tickets
+- GitHub PRs
+- Relevant links
+
+---
+
+## Additional Notes
+
+Any information not covered above.
